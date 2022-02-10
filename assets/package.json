@@ -30,7 +30,7 @@
     "eslint-plugin-standard": "^3.0.1",
     "howler": "^2.0.9",
     "modularscale-sass": "^3.0.5",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.15.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-lh": "^2.0.1",
